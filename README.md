@@ -11,6 +11,7 @@ sound.o和zhiyin.o的源文件分别是sound.wav和zhiyin.wav
 
 ----------------------------------------------------------------
 积电子功德，拜赛博佛祖，见初音未来 (ಡωಡ)
+
 Accumuate electronic merits and virtues,
 Pay respects to Cyber-Buddha,
 And finally, muki appears.  :)
